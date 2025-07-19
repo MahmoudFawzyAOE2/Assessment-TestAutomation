@@ -31,7 +31,7 @@ public class CandidateUtils {
                 faker.lorem().sentence(),
                 LocalDate.now().toString(),
                 faker.bool().bool(),
-                faker.number().numberBetween(1,8)
+                2
         );
     }
 

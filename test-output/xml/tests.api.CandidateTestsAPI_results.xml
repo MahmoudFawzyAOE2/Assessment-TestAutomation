@@ -4,12 +4,12 @@
            failures="1"
            errors="0"
            skipped="0"
-           time="6.550">
+           time="7.718">
     <properties></properties>
 
             <testcase
                 name="addCandidate"
-                time="2.541"
+                time="2.571"
                 classname="tests.api.CandidateTestsAPI">
 
             <failure type="java.lang.AssertionError" message="1 expectation failed.
@@ -26,7 +26,7 @@ Expected status code <422> but was <500>.
 
             <testcase
                 name="addCandidate"
-                time="4.009"
+                time="5.147"
                 classname="tests.api.CandidateTestsAPI">
             </testcase>
 </testsuite>

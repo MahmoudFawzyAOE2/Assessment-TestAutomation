@@ -4,14 +4,14 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="7.797">
+           time="10.976">
     <properties></properties>
 
 
 
             <testcase
                 name="AdminAssertions"
-                time="7.797"
+                time="10.976"
                 classname="tests.ui.AdminTests">
             </testcase>
 </testsuite>
